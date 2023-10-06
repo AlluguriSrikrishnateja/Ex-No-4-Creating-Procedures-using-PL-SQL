@@ -25,7 +25,7 @@
 
 # Program:
 
-
+```
 SQL> CREATE TABLE ep(
      empid NUMBER,
      empname VARCHAR(10),
@@ -48,7 +48,7 @@ CREATE OR REPLACE PROCEDURE emp_data AS
    END;
   /
 
-
+```
 # Output:
 
 <img width="520" alt="image" src="https://github.com/AlluguriSrikrishnateja/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/118343892/dddf84a0-0855-4bad-9ee8-a72b0b916b59">
